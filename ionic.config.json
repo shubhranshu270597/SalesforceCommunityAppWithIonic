@@ -1,0 +1,8 @@
+{
+  "name": "NGASCE-Community",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "angular"
+}
